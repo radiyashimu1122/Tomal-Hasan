@@ -1,0 +1,25 @@
+
+
+.hire{
+    background-color: #ff3f34;
+    color: white;
+    border-radius:25px ;
+    padding: 7px;
+    border: none;
+}
+.text{
+  padding-left: 20px;
+
+}
+
+ .hight{
+  height: 800px;
+ }
+ img{
+  border: 14px solid #ff3f34;
+border-radius: 100%;
+ }
+ .tomal{
+  border: 3px solid white;
+   border-radius: 100%;
+ }
